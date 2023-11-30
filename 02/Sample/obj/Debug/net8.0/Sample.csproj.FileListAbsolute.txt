@@ -1,0 +1,14 @@
+/Users/oussamabechichi/Desktop/OneDrive_1_30-11-2023/Archive/02/Sample/bin/Debug/net8.0/Sample
+/Users/oussamabechichi/Desktop/OneDrive_1_30-11-2023/Archive/02/Sample/bin/Debug/net8.0/Sample.deps.json
+/Users/oussamabechichi/Desktop/OneDrive_1_30-11-2023/Archive/02/Sample/bin/Debug/net8.0/Sample.runtimeconfig.json
+/Users/oussamabechichi/Desktop/OneDrive_1_30-11-2023/Archive/02/Sample/bin/Debug/net8.0/Sample.dll
+/Users/oussamabechichi/Desktop/OneDrive_1_30-11-2023/Archive/02/Sample/bin/Debug/net8.0/Sample.pdb
+/Users/oussamabechichi/Desktop/OneDrive_1_30-11-2023/Archive/02/Sample/obj/Debug/net8.0/Sample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oussamabechichi/Desktop/OneDrive_1_30-11-2023/Archive/02/Sample/obj/Debug/net8.0/Sample.AssemblyInfoInputs.cache
+/Users/oussamabechichi/Desktop/OneDrive_1_30-11-2023/Archive/02/Sample/obj/Debug/net8.0/Sample.AssemblyInfo.cs
+/Users/oussamabechichi/Desktop/OneDrive_1_30-11-2023/Archive/02/Sample/obj/Debug/net8.0/Sample.csproj.CoreCompileInputs.cache
+/Users/oussamabechichi/Desktop/OneDrive_1_30-11-2023/Archive/02/Sample/obj/Debug/net8.0/Sample.dll
+/Users/oussamabechichi/Desktop/OneDrive_1_30-11-2023/Archive/02/Sample/obj/Debug/net8.0/refint/Sample.dll
+/Users/oussamabechichi/Desktop/OneDrive_1_30-11-2023/Archive/02/Sample/obj/Debug/net8.0/Sample.pdb
+/Users/oussamabechichi/Desktop/OneDrive_1_30-11-2023/Archive/02/Sample/obj/Debug/net8.0/Sample.genruntimeconfig.cache
+/Users/oussamabechichi/Desktop/OneDrive_1_30-11-2023/Archive/02/Sample/obj/Debug/net8.0/ref/Sample.dll
